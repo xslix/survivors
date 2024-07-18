@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe141cffcbe2453ebe9bc444904771c7, type: 3}
+  m_Name: CircleSpell
+  m_EditorClassIdentifier: 
+  image: {fileID: 994163336, guid: 3c7656bbcae07ac4495f776d0dfe2e11, type: 3}
+  bulletImage: {fileID: 882587634, guid: 3c7656bbcae07ac4495f776d0dfe2e11, type: 3}
+  damage: 10
+  speed: 5
+  time: 3
